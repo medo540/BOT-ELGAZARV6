@@ -2014,8 +2014,7 @@ if (!text) return m.reply(`Example : ${prefix + command} Stay jb`)
 *┃🍁القناه :* ${anulay.author.url}
 *┃🎲الوصف :* ${anulay.description}
 *┃🌿 الرابط :* ${anulay.url}
-
-┃اسم البوت : 📶 𝗕𝗢𝗧 𝗘𝗟𝗚𝗔𝗭𝗔𝗥 📶 
+┃اسم البوت : 📶 𝗕𝗢𝗧 GON 📶 
 
 ┗━━━━━━━━━❊`,
                     footer: botname,
@@ -7179,17 +7178,17 @@ const reply = `
     break
 case 'السورس': case 'script': {
 teks = `⋆ تم تطوير وبرمجه هذا السورس •
-⋆ بواسطه عبدالله محمد •
+⋆ بواسطه حسين علي  •
 ⋆ يمكنك التواصل مع المبرمج عبر التيلجرام ⤌⤈
- t.me/A_M_030
+ t.me/husseinali_1
 تبعني عبر اليوتيوب ⤌⤈
-https://youtube.com/@ABDALLAH_MOHAMED
-واشترك وفعل الجرس وانتظر شروحات للبرمجه..🌍🔥`
+https://youtube.com/@MR_ThomasFF
+واشترك وفعل الجرس..🌍🔥`
 let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
+image: {url: `https://telegra.ph/file/2b7bda20a93d7ee812d02.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -7208,7 +7207,7 @@ ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
             break
             
-case 'جزار':
+case 'غون':
 if (!text) return m.reply(`هلا يحب`)
 break
                         
@@ -9229,8 +9228,8 @@ title:"ᴇʟɢᴀᴢᴀʀ ʙᴏт",
 body: "سورس الجزار", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg',
-sourceUrl: "https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg"
+mediaUrl: 'https://telegra.ph/file/2b7bda20a93d7ee812d02.jpg',
+sourceUrl: "https://telegra.ph/file/2b7bda20a93d7ee812d02.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
