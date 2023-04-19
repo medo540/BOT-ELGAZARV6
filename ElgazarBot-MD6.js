@@ -2014,7 +2014,7 @@ if (!text) return m.reply(`Example : ${prefix + command} Stay jb`)
 *┃🍁القناه :* ${anulay.author.url}
 *┃🎲الوصف :* ${anulay.description}
 *┃🌿 الرابط :* ${anulay.url}
-┃اسم البوت : 📶 𝗕𝗢𝗧 GON 📶 
+┃اسم البوت : 📶 𝗕𝗢𝗧 𝘽𝙇𝘼𝘾𝙆 ٍِ۬𝙓ْ 📶 
 
 ┗━━━━━━━━━❊`,
                     footer: botname,
@@ -7178,9 +7178,9 @@ const reply = `
     break
 case 'السورس': case 'script': {
 teks = `⋆ تم تطوير وبرمجه هذا السورس •
-⋆ بواسطه حسين علي  •
+⋆ بواسطه ميدو •
 ⋆ يمكنك التواصل مع المبرمج عبر التيلجرام ⤌⤈
- t.me/husseinali_1
+ https://t.me/F_5SE
 تبعني عبر اليوتيوب ⤌⤈
 https://youtube.com/@MR_ThomasFF
 واشترك وفعل الجرس..🌍🔥`
@@ -7188,7 +7188,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/2b7bda20a93d7ee812d02.jpg`},
+image: {url: `https://telegra.ph/file/951712238909e67aedbfa.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -7196,18 +7196,18 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"elza3em ʙᴏт",
-body: "سورس غون ", 
+body: "سورس بلاك ", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/25ac27774c8a0420e2649.jpg',
-sourceUrl: "https://telegra.ph/file/25ac27774c8a0420e2649.jpg"
+mediaUrl: 'https://telegra.ph/file/951712238909e67aedbfa.jpg',
+sourceUrl: "https://telegra.ph/file/951712238909e67aedbfa.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
             break
             
-case 'غون':
+case 'بلاك':
 if (!text) return m.reply(`هلا يحب`)
 break
                         
@@ -8402,19 +8402,19 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/25ac27774c8a0420e2649.jpg`},
+image: {url: `https://telegra.ph/file/951712238909e67aedbfa.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
-title:"ᴇʟɢᴀᴢᴀʀ ʙᴏт",
-body: "سورس الجزار", 
+title:"black ʙᴏт",
+body: "سورس بلاك", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/25ac27774c8a0420e2649.jpg',
-sourceUrl: "https://telegra.ph/file/25ac27774c8a0420e2649.jpg"
+mediaUrl: 'https://telegra.ph/file/951712238909e67aedbfa.jpg',
+sourceUrl: "https://telegra.ph/file/951712238909e67aedbfa.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8460,7 +8460,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/25ac27774c8a0420e2649.jpg`},
+image: {url: `https://telegra.ph/file/951712238909e67aedbfa.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8468,11 +8468,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"elza3em ʙᴏт",
-body: "سورس غون", 
+body: "سورس بلاك", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/25ac27774c8a0420e2649.jpg',
-sourceUrl: "https://telegra.ph/file/25ac27774c8a0420e2649.jpg"
+mediaUrl: 'https://telegra.ph/file/951712238909e67aedbfa.jpg',
+sourceUrl: "https://telegra.ph/file/951712238909e67aedbfa.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8545,7 +8545,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/25ac27774c8a0420e2649.jpg`},
+image: {url: `https://telegra.ph/file/951712238909e67aedbfa.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8553,11 +8553,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"elza3em ʙᴏт",
-body: "سورس غون", 
+body: "سورس بلاك", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/25ac27774c8a0420e2649.jpg',
-sourceUrl: "https://telegra.ph/file/25ac27774c8a0420e2649.jpg"
+mediaUrl: 'https://telegra.ph/file/951712238909e67aedbfa.jpg',
+sourceUrl: "https://telegra.ph/file/951712238909e67aedbfa.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8612,7 +8612,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/25ac27774c8a0420e2649.jpg`},
+image: {url: `https://telegra.ph/file/951712238909e67aedbfa.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8620,11 +8620,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"elza3em ʙᴏт",
-body: "سورس غون", 
+body: "سورس بلاك", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/25ac27774c8a0420e2649.jpg',
-sourceUrl: "https://telegra.ph/file/25ac27774c8a0420e2649.jpg"
+mediaUrl: 'https://telegra.ph/file/951712238909e67aedbfa.jpg',
+sourceUrl: "https://telegra.ph/file/951712238909e67aedbfa.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8673,7 +8673,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/25ac27774c8a0420e2649.jpg`},
+image: {url: `https://telegra.ph/file/951712238909e67aedbfa.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8681,11 +8681,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"elza3em ʙᴏт",
-body: "سورس غون", 
+body: "سورس بلاك", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/25ac27774c8a0420e2649.jpg',
-sourceUrl: "https://telegra.ph/file/25ac27774c8a0420e2649.jpg"
+mediaUrl: 'https://telegra.ph/file/951712238909e67aedbfa.jpg',
+sourceUrl: "https://telegra.ph/file/951712238909e67aedbfa.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8733,11 +8733,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"elza3em ʙᴏт",
-body: "سورس غون", 
+body: "سورس بلاك", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/25ac27774c8a0420e2649.jpg',
-sourceUrl: "https://telegra.ph/file/25ac27774c8a0420e2649.jpg"
+mediaUrl: 'https://telegra.ph/file/951712238909e67aedbfa.jpg',
+sourceUrl: "https://telegra.ph/file/951712238909e67aedbfa.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8813,7 +8813,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/25ac27774c8a0420e2649.jpg`},
+image: {url: `https://telegra.ph/file/951712238909e67aedbfa.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8821,11 +8821,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"elza3em ʙᴏт",
-body: "سورس غون", 
+body: "سورس بلاك", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/25ac27774c8a0420e2649.jpg',
-sourceUrl: "https://telegra.ph/file/25ac27774c8a0420e2649.jpg"
+mediaUrl: 'https://telegra.ph/file/951712238909e67aedbfa.jpg',
+sourceUrl: "https://telegra.ph/file/951712238909e67aedbfa.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8870,7 +8870,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/25ac27774c8a0420e2649.jpg`},
+image: {url: `https://telegra.ph/file/951712238909e67aedbfa.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8878,11 +8878,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"elza3em ʙᴏт",
-body: "سورس غون", 
+body: "سورس بلاك", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/25ac27774c8a0420e2649.jpg',
-sourceUrl: "https://telegra.ph/file/25ac27774c8a0420e2649.jpg"
+mediaUrl: 'https://telegra.ph/file/951712238909e67aedbfa.jpg',
+sourceUrl: "https://telegra.ph/file/951712238909e67aedbfa.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -9169,7 +9169,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/25ac27774c8a0420e2649.jpg`},
+image: {url: `https://telegra.ph/file/951712238909e67aedbfa.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -9177,11 +9177,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"elza3em ʙᴏт",
-body: "سورس غون", 
+body: "سورس بلاك", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/25ac27774c8a0420e2649.jpg',
-sourceUrl: "https://telegra.ph/file/25ac27774c8a0420e2649.jpg"
+mediaUrl: 'https://telegra.ph/file/951712238909e67aedbfa.jpg',
+sourceUrl: "https://telegra.ph/file/951712238909e67aedbfa.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -9200,7 +9200,7 @@ teks = `•╗ مرحبا ياعزيزي ⤌⤈
 •╣ مميزات البوت كثيره جدا 
 •╝ ويعمل بجودة فائقه وعاليه
 𓍹————————————𓍻
-𓆩قائمة اوامر سورس غون𓆪 
+𓆩قائمة اوامر سورس بلاك𓆪 
 𓍹————————————𓍻
 ( .م1 ) ☞ اوامر الاعضاء
 ( .م2 ) ☞ اوامر المالك
@@ -9217,7 +9217,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/25ac27774c8a0420e2649.jpg`},
+image: {url: `https://telegra.ph/file/951712238909e67aedbfa.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -9225,11 +9225,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"elza3em ʙᴏт",
-body: "سورس غون", 
+body: "سورس بلاك", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/25ac27774c8a0420e2649.jpg',
-sourceUrl: "https://telegra.ph/file/25ac27774c8a0420e2649.jpg"
+mediaUrl: 'https://telegra.ph/file/951712238909e67aedbfa.jpg',
+sourceUrl: "https://telegra.ph/file/951712238909e67aedbfa.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
