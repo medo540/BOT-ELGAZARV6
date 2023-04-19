@@ -16,18 +16,18 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['201150137726'] //ur owner number
-global.ownername = "ميدو باشا❤️" //ur owner name
-global.ytname = "YT: THOMAS" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
+global.ownername = "BLACK ❤️" //ur owner name
+global.ytname = "YT: " //ur yt chanel name
+global.socialm = "GitHub: medo" //ur github or insta name
 global.location = "Africa, Egypt, Cairo" //ur location
 
 //bot bomdy 
 global.ownernomer = "201150137726" //ur number
 global.premium = ['201150137726'] //ur premium number
 global.botname = '❤️𝗕𝗢𝗧 𝘽𝙇𝘼𝘾𝙆 ٍِ۬𝙓ْ❤️' //ur bot name
-global.linkz = "https://youtube.com/@MR_ThomasFF" //your theme url which will be displayed on whatsapp
+global.linkz = "https://wa.me/+201150137726" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/951712238909e67aedbfa.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@MR_ThomasFF' //script link
+global.botscript = 'https://wa.me/+201150137726' //script link
 global.themeemoji = "♥" //ur theme emoji
 global.packname = "⍣بـوت بلاك يروحي⍣" //ur sticker watermark packname
 global.author = "⍣01150137726⍣" //ur sticker watermark author
