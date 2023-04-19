@@ -1,8 +1,8 @@
 {
-  "name": "ELGAZAR_BOTV6",
+  "name": "BLACK_BOTV6",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/Babelhara/BOT_ELGAZARV8",
-  "logo": "https://telegra.ph/file/25ac27774c8a0420e2649.jpg",
+  "logo": "https://telegra.ph/file/951712238909e67aedbfa.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
