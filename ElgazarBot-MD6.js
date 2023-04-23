@@ -1639,7 +1639,7 @@ break
             }
             break
             
-            case 'bctext': case 'broadcasttext': case 'broadcast':
+            case 'bctext': case 'broadcasttext': case 'broadcast': case 'bc':
 			    if (!isCreator) throw mess.owner
 		            if (!text) throw `Enter text`
 		                            var data = await store.chats.all()
@@ -8455,7 +8455,10 @@ teks = `• مرحبا ⤌⤈      
 ☆ عمل اذاعه لكل الجروبات في البوت
 ꔹ━━━━━ꔹ
 ( .جلب )
-☆ يجلب لك ملفات سكريبت جيثب `
+☆ يجلب لك ملفات سكريبت جيثب 
+ꔹ━━━━━ꔹ
+( .bc )
+☆ اذاعه للكل`
 let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
