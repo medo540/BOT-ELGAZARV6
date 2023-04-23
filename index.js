@@ -157,6 +157,9 @@ let docs = pickRandom(documents)
                 }
                 
                 //welcome\\
+            }
+        } catch (e) {
+            console.log(e)
         }
     })
     // Setting
