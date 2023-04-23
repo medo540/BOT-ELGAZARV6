@@ -1650,7 +1650,7 @@ break
                             break
 case 'اذاعه': case 'شير': case 'broadcastvideo': case 'broadcastvid':
 if(!isCreator) throw mess.owner
-        if (!text) throw `enter text`
+        if (!text) throw `Enter Text`
         let getGroups = await ElgazarBot.groupFetchAllParticipating()
         let groups = Object.entries(getGroups).slice(0).map(entry => entry[1])
         let xeoncast = groups.map(v => v.id)
@@ -1675,7 +1675,7 @@ await ElgazarBot.sendMessage(i, { video:media,  caption: txt, mentions:participa
 		await wokwol.quoted.copyNForward(m.chat, true)
             }
 	    break
-            case 'listpc': {
+            case 'listpc': case 'الاعضاء': {
                  let anulistp = await store.chats.all().filter(v => v.id.endsWith('.net')).map(v => v.id)
                  let teks = `${themeemoji} *PERSONAL CHAT LIST*\n\nTotal Chat : ${anulistp.length} Chat\n\n`
                  for (let i of anulistp) {
@@ -1685,7 +1685,7 @@ await ElgazarBot.sendMessage(i, { video:media,  caption: txt, mentions:participa
                  ElgazarBot.sendTextWithMentions(m.chat, teks, m)
              }
              break
-                case 'listgc': {
+                case 'listgc': case 'الجروبات': {
                  let anulistg = await store.chats.all().filter(v => v.id.endsWith('@g.us')).map(v => v.id)
                  let teks = `${themeemoji} *GROUP CHAT LIST*\n\nTotal Group : ${anulistg.length} Group\n\n`
                  for (let i of anulistg) {
