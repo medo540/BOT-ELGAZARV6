@@ -1956,7 +1956,7 @@ if (!text) return m.reply(`Example : ${prefix + command} Stay jb`)
             })
             }
         break    
-        case 'song':case 'تشغيل': {
+        case '':case '': {
         if (!text) return m.reply(`مثال : ${prefix + command} واسم الاغنيه`)
             let ytslagu = require("youtube-yts")
             let lagusearch = await ytslagu(text)
@@ -1988,7 +1988,7 @@ if (!text) return m.reply(`Example : ${prefix + command} Stay jb`)
             }
             break
         
-    case 'play': case 'شغل':{
+    case '': case '':{
                 if (!text) throw `مثال : ${prefix + command} انمي ناروتو`
                 let yts = require("youtube-yts")
                 let search = await yts(text)
@@ -2015,8 +2015,6 @@ if (!text) return m.reply(`Example : ${prefix + command} Stay jb`)
 *┃🎲الوصف :* ${anulay.description}
 *┃🌿 الرابط :* ${anulay.url}
 
-┃اسم البوت : 📶 𝗕𝗢𝗧 𝗘𝗟𝗚𝗔𝗭𝗔𝗥 📶 
-
 ┗━━━━━━━━━❊`,
                     footer: botname,
                     buttons: buttons,
@@ -2025,7 +2023,7 @@ if (!text) return m.reply(`Example : ${prefix + command} Stay jb`)
                 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
             }
             break
-case 'playmp3': case 'اغنيه': //credit: Ray Senpai ❤️ https://github.com/EternityBots/Nezuko
+case '': case '': //credit: Ray Senpai ❤️ https://github.com/EternityBots/Nezuko
 if (!text) throw `مثال : ${prefix + command} انمي ناروتو`
 const xeonplaymp3 = require('./lib/ytdl2')
 let yts = require("youtube-yts")
@@ -2049,7 +2047,7 @@ await ElgazarBot.sendMessage(m.chat,{
 },{quoted:m})
 await fs.unlinkSync(pl.path)
 break
-case 'playmp4': case 'فيديو': //credit: Ray Senpai ❤️ https://github.com/EternityBots/Nezuko
+case '': case '': //credit: Ray Senpai ❤️ https://github.com/EternityBots/Nezuko
 if(!text) throw `مثال : ${prefix + command} انمي ناروتو`
 const xeonplaymp4 = require('./lib/ytdl2')
 let ytsmp4 = require("youtube-yts")
